@@ -13,6 +13,6 @@ Searches for your currently selected text on Google, Github and Stackoverflow.
 - save the _Open_help_pages_from_snippet.workflow_ file locally, and open with Apple Automator
 - Select `File>save` and save to your local services, typically in icloud
 - Go to `System Preferences>Keyboard>Shortcuts>Services` and select the _Open_help_pages_from_snippet_ service
-- Assign a keyboard shortcut, I use <kbd>^</kdb>+<kbd>⌥</kdb><kbd>⌘</kdb>+<kbd>H</kdb>
+- Assign a keyboard shortcut, I use <kbd>Ctrl + Alt + Cmnd + H</kdb>
 
 
